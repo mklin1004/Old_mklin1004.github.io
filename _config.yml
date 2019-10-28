@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My personel note for "Bioinformatics-with-Python-Cookbook-Second-Edition"
+title: My personal note 
+#for "Bioinformatics-with-Python-Cookbook-Second-Edition"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bioinformatics-with-Python-Cookbook-Second-Edition
